@@ -1,0 +1,755 @@
+{
+  "version": "2.0",
+  "lastUpdated": "2025-11-18",
+  "note": "Added Generic 24-Color and 48-Color palettes based on Folwith market research",
+  "palettes": [
+    {
+      "id": "generic-24",
+      "name": "通用新手24色 (Generic 24-Color)",
+      "nameEn": "Generic 24-Color Starter Set",
+      "brand": "Generic",
+      "series": "Beginner 24-Color",
+      "region": "china",
+      "targetAudience": "beginner",
+      "description": "中国市场最常见的入门级24色套装",
+      "beadSize": 5,
+      "colorCount": 24,
+      "colors": [
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "01",
+          "nameEn": "Black",
+          "nameCn": "黑色",
+          "rgbHex": "#141414",
+          "rgb": [20, 20, 20],
+          "lab": [5.69, 0.00, 0.00]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "02",
+          "nameEn": "White",
+          "nameCn": "白色",
+          "rgbHex": "#FFFFFF",
+          "rgb": [255, 255, 255],
+          "lab": [100.00, 0.00, 0.00]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "03",
+          "nameEn": "Light Gray",
+          "nameCn": "浅灰色",
+          "rgbHex": "#C8C8C8",
+          "rgb": [200, 200, 200],
+          "lab": [81.26, 0.00, 0.00]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "04",
+          "nameEn": "Dark Gray",
+          "nameCn": "深灰色",
+          "rgbHex": "#646464",
+          "rgb": [100, 100, 100],
+          "lab": [43.04, 0.00, 0.00]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "05",
+          "nameEn": "Red",
+          "nameCn": "红色",
+          "rgbHex": "#DC1E28",
+          "rgb": [220, 30, 40],
+          "lab": [49.77, 70.84, 51.68]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "06",
+          "nameEn": "Yellow",
+          "nameCn": "黄色",
+          "rgbHex": "#FFE600",
+          "rgb": [255, 230, 0],
+          "lab": [91.60, -8.23, 93.55]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "07",
+          "nameEn": "Blue",
+          "nameCn": "蓝色",
+          "rgbHex": "#0064C8",
+          "rgb": [0, 100, 200],
+          "lab": [42.87, 17.80, -56.23]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "08",
+          "nameEn": "Green",
+          "nameCn": "绿色",
+          "rgbHex": "#32B450",
+          "rgb": [50, 180, 80],
+          "lab": [65.81, -54.21, 43.15]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "09",
+          "nameEn": "Orange",
+          "nameCn": "橙色",
+          "rgbHex": "#FF8C1E",
+          "rgb": [255, 140, 30],
+          "lab": [70.09, 37.16, 72.45]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "10",
+          "nameEn": "Purple",
+          "nameCn": "紫色",
+          "rgbHex": "#823CA0",
+          "rgb": [130, 60, 160],
+          "lab": [40.42, 51.25, -45.38]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "11",
+          "nameEn": "Pink",
+          "nameCn": "粉色",
+          "rgbHex": "#FF96B4",
+          "rgb": [255, 150, 180],
+          "lab": [73.85, 48.25, 11.93]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "12",
+          "nameEn": "Light Blue",
+          "nameCn": "浅蓝色",
+          "rgbHex": "#64C8F0",
+          "rgb": [100, 200, 240],
+          "lab": [76.07, -20.51, -29.45]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "13",
+          "nameEn": "Light Green",
+          "nameCn": "浅绿色",
+          "rgbHex": "#96E696",
+          "rgb": [150, 230, 150],
+          "lab": [85.88, -38.72, 31.18]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "14",
+          "nameEn": "Light Pink",
+          "nameCn": "浅粉色",
+          "rgbHex": "#FFC8DC",
+          "rgb": [255, 200, 220],
+          "lab": [85.42, 23.64, 1.25]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "15",
+          "nameEn": "Brown",
+          "nameCn": "棕色",
+          "rgbHex": "#784628",
+          "rgb": [120, 70, 40],
+          "lab": [37.89, 17.48, 28.75]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "16",
+          "nameEn": "Beige",
+          "nameCn": "米色",
+          "rgbHex": "#F0DCBE",
+          "rgb": [240, 220, 190],
+          "lab": [88.72, 2.08, 17.28]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "17",
+          "nameEn": "Dark Blue",
+          "nameCn": "深蓝色",
+          "rgbHex": "#143278",
+          "rgb": [20, 50, 120],
+          "lab": [21.26, 18.95, -46.93]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "18",
+          "nameEn": "Sky Blue",
+          "nameCn": "天蓝色",
+          "rgbHex": "#87CEEB",
+          "rgb": [135, 206, 235],
+          "lab": [79.20, -10.69, -22.83]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "19",
+          "nameEn": "Turquoise",
+          "nameCn": "青绿色",
+          "rgbHex": "#40E0D0",
+          "rgb": [64, 224, 208],
+          "lab": [81.26, -44.98, -3.68]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "20",
+          "nameEn": "Hot Pink",
+          "nameCn": "玫红色",
+          "rgbHex": "#FF1493",
+          "rgb": [255, 20, 147],
+          "lab": [59.78, 84.55, -5.72]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "21",
+          "nameEn": "Lavender",
+          "nameCn": "淡紫色",
+          "rgbHex": "#C8B4E6",
+          "rgb": [200, 180, 230],
+          "lab": [76.55, 14.38, -21.55]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "22",
+          "nameEn": "Peach",
+          "nameCn": "桃色",
+          "rgbHex": "#FFC8B4",
+          "rgb": [255, 200, 180],
+          "lab": [84.31, 17.85, 19.48]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "23",
+          "nameEn": "Burgundy",
+          "nameCn": "酒红色",
+          "rgbHex": "#800020",
+          "rgb": [128, 0, 32],
+          "lab": [25.42, 48.34, 28.63]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 24-Color",
+          "code": "24",
+          "nameEn": "Tan",
+          "nameCn": "棕褐色",
+          "rgbHex": "#D2B48C",
+          "rgb": [210, 180, 140],
+          "lab": [75.41, 5.59, 24.90]
+        }
+      ]
+    },
+    {
+      "id": "generic-48",
+      "name": "通用新手48色 (Generic 48-Color)",
+      "nameEn": "Generic 48-Color Standard Set",
+      "brand": "Generic",
+      "series": "Beginner 48-Color",
+      "region": "china",
+      "targetAudience": "beginner",
+      "description": "Standard 48-color set for beginners, featuring essential colors for basic artwork",
+      "beadSize": 5,
+      "colorCount": 48,
+      "colors": [
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "01",
+          "nameEn": "Yellow",
+          "nameCn": "黄色",
+          "rgbHex": "#FFE600",
+          "rgb": [255, 230, 0],
+          "lab": [91.79, -7.61, 91.52]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "02",
+          "nameEn": "Deep Yellow",
+          "nameCn": "深黄",
+          "rgbHex": "#FFD700",
+          "rgb": [255, 215, 0],
+          "lab": [88.28, 1.51, 88.45]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "03",
+          "nameEn": "Orange",
+          "nameCn": "橙色",
+          "rgbHex": "#FFA500",
+          "rgb": [255, 165, 0],
+          "lab": [76.22, 24.55, 79.35]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "04",
+          "nameEn": "Dark Orange",
+          "nameCn": "深橙",
+          "rgbHex": "#FF8C00",
+          "rgb": [255, 140, 0],
+          "lab": [70.10, 35.78, 76.93]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "05",
+          "nameEn": "Orange Red",
+          "nameCn": "橙红",
+          "rgbHex": "#FF4500",
+          "rgb": [255, 69, 0],
+          "lab": [55.97, 63.59, 71.41]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "06",
+          "nameEn": "Red",
+          "nameCn": "红色",
+          "rgbHex": "#FF0000",
+          "rgb": [255, 0, 0],
+          "lab": [53.24, 80.09, 67.20]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "07",
+          "nameEn": "Crimson",
+          "nameCn": "深红",
+          "rgbHex": "#DC143C",
+          "rgb": [220, 20, 60],
+          "lab": [47.43, 70.88, 36.08]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "08",
+          "nameEn": "Firebrick",
+          "nameCn": "火砖红",
+          "rgbHex": "#B22222",
+          "rgb": [178, 34, 34],
+          "lab": [40.40, 56.59, 35.76]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "09",
+          "nameEn": "Deep Pink",
+          "nameCn": "深粉红",
+          "rgbHex": "#FF1493",
+          "rgb": [255, 20, 147],
+          "lab": [58.79, 82.95, -18.72]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "10",
+          "nameEn": "Hot Pink",
+          "nameCn": "热粉红",
+          "rgbHex": "#FF69B4",
+          "rgb": [255, 105, 180],
+          "lab": [65.48, 62.80, -6.76]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "11",
+          "nameEn": "Pink",
+          "nameCn": "粉红",
+          "rgbHex": "#FFC0CB",
+          "rgb": [255, 192, 203],
+          "lab": [83.14, 24.13, 3.29]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "12",
+          "nameEn": "Light Pink",
+          "nameCn": "浅粉红",
+          "rgbHex": "#FFB6C1",
+          "rgb": [255, 182, 193],
+          "lab": [81.21, 24.48, 6.33]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "13",
+          "nameEn": "Pale Violet Red",
+          "nameCn": "苍紫罗兰红",
+          "rgbHex": "#DB7093",
+          "rgb": [219, 112, 147],
+          "lab": [62.76, 45.56, 2.57]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "14",
+          "nameEn": "Medium Violet Red",
+          "nameCn": "中紫罗兰红",
+          "rgbHex": "#C71585",
+          "rgb": [199, 21, 133],
+          "lab": [47.62, 73.95, -23.54]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "15",
+          "nameEn": "Medium Orchid",
+          "nameCn": "中兰花紫",
+          "rgbHex": "#BA55D3",
+          "rgb": [186, 85, 211],
+          "lab": [56.27, 51.68, -48.59]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "16",
+          "nameEn": "Dark Violet",
+          "nameCn": "暗紫",
+          "rgbHex": "#9400D3",
+          "rgb": [148, 0, 211],
+          "lab": [40.00, 73.24, -70.78]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "17",
+          "nameEn": "Blue Violet",
+          "nameCn": "蓝紫",
+          "rgbHex": "#8A2BE2",
+          "rgb": [138, 43, 226],
+          "lab": [44.08, 68.24, -73.08]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "18",
+          "nameEn": "Indigo",
+          "nameCn": "靛青",
+          "rgbHex": "#4B0082",
+          "rgb": [75, 0, 130],
+          "lab": [20.47, 51.69, -53.33]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "19",
+          "nameEn": "Purple",
+          "nameCn": "紫色",
+          "rgbHex": "#800080",
+          "rgb": [128, 0, 128],
+          "lab": [29.78, 58.94, -36.50]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "20",
+          "nameEn": "Medium Purple",
+          "nameCn": "中紫",
+          "rgbHex": "#9370DB",
+          "rgb": [147, 112, 219],
+          "lab": [56.88, 30.66, -48.24]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "21",
+          "nameEn": "Thistle",
+          "nameCn": "蓟色",
+          "rgbHex": "#D8BFD8",
+          "rgb": [216, 191, 216],
+          "lab": [80.78, 16.38, -15.81]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "22",
+          "nameEn": "Plum",
+          "nameCn": "梅红",
+          "rgbHex": "#DDA0DD",
+          "rgb": [221, 160, 221],
+          "lab": [74.02, 30.29, -21.59]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "23",
+          "nameEn": "Blue",
+          "nameCn": "蓝色",
+          "rgbHex": "#0000FF",
+          "rgb": [0, 0, 255],
+          "lab": [32.30, 79.19, -107.86]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "24",
+          "nameEn": "Dark Blue",
+          "nameCn": "深蓝",
+          "rgbHex": "#00008B",
+          "rgb": [0, 0, 139],
+          "lab": [17.88, 50.68, -64.47]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "25",
+          "nameEn": "Medium Blue",
+          "nameCn": "中蓝",
+          "rgbHex": "#0000CD",
+          "rgb": [0, 0, 205],
+          "lab": [28.05, 67.70, -94.78]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "26",
+          "nameEn": "Midnight Blue",
+          "nameCn": "午夜蓝",
+          "rgbHex": "#191970",
+          "rgb": [25, 25, 112],
+          "lab": [15.28, 38.02, -58.13]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "27",
+          "nameEn": "Deep Sky Blue",
+          "nameCn": "深天蓝",
+          "rgbHex": "#00BFFF",
+          "rgb": [0, 191, 255],
+          "lab": [72.61, -5.78, -49.26]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "28",
+          "nameEn": "Dodger Blue",
+          "nameCn": "道奇蓝",
+          "rgbHex": "#1E90FF",
+          "rgb": [30, 144, 255],
+          "lab": [58.77, 12.77, -57.82]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "29",
+          "nameEn": "Light Sky Blue",
+          "nameCn": "浅天蓝",
+          "rgbHex": "#87CEFA",
+          "rgb": [135, 206, 250],
+          "lab": [80.49, -7.69, -24.34]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "30",
+          "nameEn": "Sky Blue",
+          "nameCn": "天蓝",
+          "rgbHex": "#87CEEB",
+          "rgb": [135, 206, 235],
+          "lab": [79.72, -10.28, -19.26]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "31",
+          "nameEn": "Light Blue",
+          "nameCn": "浅蓝",
+          "rgbHex": "#ADD8E6",
+          "rgb": [173, 216, 230],
+          "lab": [84.07, -8.22, -12.14]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "32",
+          "nameEn": "Powder Blue",
+          "nameCn": "粉蓝",
+          "rgbHex": "#B0E0E6",
+          "rgb": [176, 224, 230],
+          "lab": [86.14, -11.45, -8.71]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "33",
+          "nameEn": "Cyan",
+          "nameCn": "青色",
+          "rgbHex": "#00FFFF",
+          "rgb": [0, 255, 255],
+          "lab": [91.11, -48.08, -14.13]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "34",
+          "nameEn": "Dark Turquoise",
+          "nameCn": "暗绿松石",
+          "rgbHex": "#00CED1",
+          "rgb": [0, 206, 209],
+          "lab": [76.61, -38.00, -16.72]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "35",
+          "nameEn": "Medium Turquoise",
+          "nameCn": "中绿松石",
+          "rgbHex": "#48D1CC",
+          "rgb": [72, 209, 204],
+          "lab": [77.29, -40.51, -7.47]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "36",
+          "nameEn": "Turquoise",
+          "nameCn": "绿松石",
+          "rgbHex": "#40E0D0",
+          "rgb": [64, 224, 208],
+          "lab": [81.26, -44.97, -4.87]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "37",
+          "nameEn": "Spring Green",
+          "nameCn": "春绿",
+          "rgbHex": "#00FF7F",
+          "rgb": [0, 255, 127],
+          "lab": [87.73, -83.06, 53.32]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "38",
+          "nameEn": "Medium Spring Green",
+          "nameCn": "中春绿",
+          "rgbHex": "#00FA9A",
+          "rgb": [0, 250, 154],
+          "lab": [86.55, -73.95, 36.38]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "39",
+          "nameEn": "Medium Sea Green",
+          "nameCn": "中海绿",
+          "rgbHex": "#3CB371",
+          "rgb": [60, 179, 113],
+          "lab": [65.35, -44.64, 25.42]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "40",
+          "nameEn": "Sea Green",
+          "nameCn": "海绿",
+          "rgbHex": "#2E8B57",
+          "rgb": [46, 139, 87],
+          "lab": [50.59, -40.75, 21.45]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "41",
+          "nameEn": "Green",
+          "nameCn": "绿色",
+          "rgbHex": "#008000",
+          "rgb": [0, 128, 0],
+          "lab": [46.23, -51.70, 49.90]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "42",
+          "nameEn": "Dark Green",
+          "nameCn": "深绿",
+          "rgbHex": "#006400",
+          "rgb": [0, 100, 0],
+          "lab": [35.76, -43.39, 44.19]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "43",
+          "nameEn": "Forest Green",
+          "nameCn": "森林绿",
+          "rgbHex": "#228B22",
+          "rgb": [34, 139, 34],
+          "lab": [49.93, -54.88, 49.58]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "44",
+          "nameEn": "Lime Green",
+          "nameCn": "酸橙绿",
+          "rgbHex": "#32CD32",
+          "rgb": [50, 205, 50],
+          "lab": [73.76, -72.09, 66.48]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "45",
+          "nameEn": "Light Green",
+          "nameCn": "浅绿",
+          "rgbHex": "#90EE90",
+          "rgb": [144, 238, 144],
+          "lab": [87.73, -40.90, 32.94]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "46",
+          "nameEn": "Pale Green",
+          "nameCn": "苍绿",
+          "rgbHex": "#98FB98",
+          "rgb": [152, 251, 152],
+          "lab": [91.87, -46.11, 36.58]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "47",
+          "nameEn": "Green Yellow",
+          "nameCn": "黄绿",
+          "rgbHex": "#ADFF2F",
+          "rgb": [173, 255, 47],
+          "lab": [91.54, -54.37, 84.13]
+        },
+        {
+          "brand": "Generic",
+          "series": "Beginner 48-Color",
+          "code": "48",
+          "nameEn": "Chartreuse",
+          "nameCn": "查特酒绿",
+          "rgbHex": "#7FFF00",
+          "rgb": [127, 255, 0],
+          "lab": [90.81, -70.70, 88.13]
+        }
+      ]
+    }
+  ]
+}

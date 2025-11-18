@@ -1,0 +1,1520 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-11-18",
+  "description": "MARD标准色卡数据 - 基于中国拼豆市场调研",
+  "palettes": [
+    {
+      "id": "mard-24-standard",
+      "name": "MARD 24色标准套装",
+      "description": "中国市场通用标准，品牌兼容性97%，适合Beginner用户",
+      "region": "CN",
+      "targetAudience": "Beginner",
+      "beadSize": 5,
+      "colorCount": 24,
+      "colors": [
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "001",
+          "nameEn": "White",
+          "nameCn": "纯白色",
+          "rgbHex": "#FFFFFF",
+          "rgb": [
+            255,
+            255,
+            255
+          ],
+          "lab": [
+            100,
+            0,
+            0
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "091",
+          "nameEn": "Black",
+          "nameCn": "纯黑色",
+          "rgbHex": "#000000",
+          "rgb": [
+            0,
+            0,
+            0
+          ],
+          "lab": [
+            0,
+            0,
+            0
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "021",
+          "nameEn": "Light Gray",
+          "nameCn": "浅灰色",
+          "rgbHex": "#D3D3D3",
+          "rgb": [
+            211,
+            211,
+            211
+          ],
+          "lab": [
+            84.6,
+            0,
+            0
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "051",
+          "nameEn": "Gray",
+          "nameCn": "钢灰色",
+          "rgbHex": "#808080",
+          "rgb": [
+            128,
+            128,
+            128
+          ],
+          "lab": [
+            53.6,
+            0,
+            0
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "101",
+          "nameEn": "Bright Red",
+          "nameCn": "鲜红色",
+          "rgbHex": "#FF0000",
+          "rgb": [
+            255,
+            0,
+            0
+          ],
+          "lab": [
+            53.2,
+            80.1,
+            67.2
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "111",
+          "nameEn": "Dark Red",
+          "nameCn": "深红色",
+          "rgbHex": "#DC143C",
+          "rgb": [
+            220,
+            20,
+            60
+          ],
+          "lab": [
+            47,
+            70.9,
+            33.6
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "151",
+          "nameEn": "Light Pink",
+          "nameCn": "浅粉色",
+          "rgbHex": "#FFB6C1",
+          "rgb": [
+            255,
+            182,
+            193
+          ],
+          "lab": [
+            81.1,
+            28,
+            5
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "161",
+          "nameEn": "Hot Pink",
+          "nameCn": "深粉色",
+          "rgbHex": "#FF1493",
+          "rgb": [
+            255,
+            20,
+            147
+          ],
+          "lab": [
+            56,
+            84.6,
+            -5.7
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "191",
+          "nameEn": "Orange",
+          "nameCn": "鲜橙色",
+          "rgbHex": "#FFA500",
+          "rgb": [
+            255,
+            165,
+            0
+          ],
+          "lab": [
+            74.9,
+            23.9,
+            79
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "226",
+          "nameEn": "Yellow",
+          "nameCn": "鲜黄色",
+          "rgbHex": "#FFFF00",
+          "rgb": [
+            255,
+            255,
+            0
+          ],
+          "lab": [
+            97.1,
+            -21.6,
+            94.5
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "231",
+          "nameEn": "Lemon Yellow",
+          "nameCn": "柠檬黄",
+          "rgbHex": "#FFF700",
+          "rgb": [
+            255,
+            247,
+            0
+          ],
+          "lab": [
+            95.1,
+            -17.7,
+            93
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "201",
+          "nameEn": "Lime Green",
+          "nameCn": "青柠绿",
+          "rgbHex": "#32CD32",
+          "rgb": [
+            50,
+            205,
+            50
+          ],
+          "lab": [
+            72.6,
+            -67.1,
+            61.4
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "221",
+          "nameEn": "Dark Green",
+          "nameCn": "墨绿色",
+          "rgbHex": "#005941",
+          "rgb": [
+            0,
+            89,
+            65
+          ],
+          "lab": [
+            33,
+            -29.9,
+            7.4
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "226",
+          "nameEn": "Forest Green",
+          "nameCn": "森林绿",
+          "rgbHex": "#228B22",
+          "rgb": [
+            34,
+            139,
+            34
+          ],
+          "lab": [
+            50.6,
+            -49.6,
+            45
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "301",
+          "nameEn": "Cyan",
+          "nameCn": "青色",
+          "rgbHex": "#00FFFF",
+          "rgb": [
+            0,
+            255,
+            255
+          ],
+          "lab": [
+            91.1,
+            -48.1,
+            -14.1
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "311",
+          "nameEn": "Sky Blue",
+          "nameCn": "天蓝色",
+          "rgbHex": "#87CEEB",
+          "rgb": [
+            135,
+            206,
+            235
+          ],
+          "lab": [
+            79.2,
+            -14.8,
+            -21.3
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "321",
+          "nameEn": "Blue",
+          "nameCn": "蓝色",
+          "rgbHex": "#0000FF",
+          "rgb": [
+            0,
+            0,
+            255
+          ],
+          "lab": [
+            32.3,
+            79.2,
+            -107.9
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "331",
+          "nameEn": "Navy Blue",
+          "nameCn": "海军蓝",
+          "rgbHex": "#000080",
+          "rgb": [
+            0,
+            0,
+            128
+          ],
+          "lab": [
+            13,
+            47.5,
+            -64.7
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "401",
+          "nameEn": "Purple",
+          "nameCn": "紫色",
+          "rgbHex": "#800080",
+          "rgb": [
+            128,
+            0,
+            128
+          ],
+          "lab": [
+            29.8,
+            58.9,
+            -36.5
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "411",
+          "nameEn": "Lavender",
+          "nameCn": "薰衣草",
+          "rgbHex": "#E6E6FA",
+          "rgb": [
+            230,
+            230,
+            250
+          ],
+          "lab": [
+            91.8,
+            3.7,
+            -9.7
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "501",
+          "nameEn": "Beige",
+          "nameCn": "米色",
+          "rgbHex": "#F5F5DC",
+          "rgb": [
+            245,
+            245,
+            220
+          ],
+          "lab": [
+            95.9,
+            -4.2,
+            12
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "521",
+          "nameEn": "Light Brown",
+          "nameCn": "浅棕色",
+          "rgbHex": "#B5651D",
+          "rgb": [
+            181,
+            101,
+            29
+          ],
+          "lab": [
+            50.9,
+            27.2,
+            51.2
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "531",
+          "nameEn": "Brown",
+          "nameCn": "咖啡棕",
+          "rgbHex": "#6F4E37",
+          "rgb": [
+            111,
+            78,
+            55
+          ],
+          "lab": [
+            36.2,
+            10.9,
+            19.1
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "541",
+          "nameEn": "Dark Brown",
+          "nameCn": "深棕色",
+          "rgbHex": "#654321",
+          "rgb": [
+            101,
+            67,
+            33
+          ],
+          "lab": [
+            31.6,
+            10.9,
+            26.2
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        }
+      ]
+    },
+    {
+      "id": "mard-48-standard",
+      "name": "MARD 48色标准套装",
+      "description": "中国市场通用标准，品牌兼容性97%，适合Hobbyist用户",
+      "region": "CN",
+      "targetAudience": "Hobbyist",
+      "beadSize": 5,
+      "colorCount": 48,
+      "colors": [
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "001",
+          "nameEn": "White",
+          "nameCn": "纯白色",
+          "rgbHex": "#FFFFFF",
+          "rgb": [
+            255,
+            255,
+            255
+          ],
+          "lab": [
+            100,
+            0,
+            0
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "011",
+          "nameEn": "Cream White",
+          "nameCn": "乳白色",
+          "rgbHex": "#FFFAF0",
+          "rgb": [
+            255,
+            250,
+            240
+          ],
+          "lab": [
+            98.4,
+            0,
+            5.4
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "021",
+          "nameEn": "Light Gray",
+          "nameCn": "浅灰色",
+          "rgbHex": "#D3D3D3",
+          "rgb": [
+            211,
+            211,
+            211
+          ],
+          "lab": [
+            84.6,
+            0,
+            0
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "031",
+          "nameEn": "Silver Gray",
+          "nameCn": "银灰色",
+          "rgbHex": "#C0C0C0",
+          "rgb": [
+            192,
+            192,
+            192
+          ],
+          "lab": [
+            77.7,
+            0,
+            0
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "051",
+          "nameEn": "Gray",
+          "nameCn": "钢灰色",
+          "rgbHex": "#808080",
+          "rgb": [
+            128,
+            128,
+            128
+          ],
+          "lab": [
+            53.6,
+            0,
+            0
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "061",
+          "nameEn": "Dark Gray",
+          "nameCn": "深灰色",
+          "rgbHex": "#696969",
+          "rgb": [
+            105,
+            105,
+            105
+          ],
+          "lab": [
+            44.4,
+            0,
+            0
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "091",
+          "nameEn": "Black",
+          "nameCn": "纯黑色",
+          "rgbHex": "#000000",
+          "rgb": [
+            0,
+            0,
+            0
+          ],
+          "lab": [
+            0,
+            0,
+            0
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "101",
+          "nameEn": "Bright Red",
+          "nameCn": "鲜红色",
+          "rgbHex": "#FF0000",
+          "rgb": [
+            255,
+            0,
+            0
+          ],
+          "lab": [
+            53.2,
+            80.1,
+            67.2
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "106",
+          "nameEn": "Scarlet",
+          "nameCn": "猩红色",
+          "rgbHex": "#FF2400",
+          "rgb": [
+            255,
+            36,
+            0
+          ],
+          "lab": [
+            54.6,
+            76.2,
+            67.7
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "111",
+          "nameEn": "Dark Red",
+          "nameCn": "深红色",
+          "rgbHex": "#DC143C",
+          "rgb": [
+            220,
+            20,
+            60
+          ],
+          "lab": [
+            47,
+            70.9,
+            33.6
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "121",
+          "nameEn": "Wine Red",
+          "nameCn": "酒红色",
+          "rgbHex": "#722F37",
+          "rgb": [
+            114,
+            47,
+            55
+          ],
+          "lab": [
+            29.1,
+            30.4,
+            9.7
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "151",
+          "nameEn": "Light Pink",
+          "nameCn": "浅粉色",
+          "rgbHex": "#FFB6C1",
+          "rgb": [
+            255,
+            182,
+            193
+          ],
+          "lab": [
+            81.1,
+            28,
+            5
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "156",
+          "nameEn": "Pink",
+          "nameCn": "亮粉色",
+          "rgbHex": "#FF69B4",
+          "rgb": [
+            255,
+            105,
+            180
+          ],
+          "lab": [
+            65.5,
+            64.3,
+            -10.7
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "161",
+          "nameEn": "Hot Pink",
+          "nameCn": "深粉色",
+          "rgbHex": "#FF1493",
+          "rgb": [
+            255,
+            20,
+            147
+          ],
+          "lab": [
+            56,
+            84.6,
+            -5.7
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "166",
+          "nameEn": "Magenta",
+          "nameCn": "洋红色",
+          "rgbHex": "#FF00FF",
+          "rgb": [
+            255,
+            0,
+            255
+          ],
+          "lab": [
+            60.3,
+            98.3,
+            -60.8
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "191",
+          "nameEn": "Orange",
+          "nameCn": "鲜橙色",
+          "rgbHex": "#FFA500",
+          "rgb": [
+            255,
+            165,
+            0
+          ],
+          "lab": [
+            74.9,
+            23.9,
+            79
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "196",
+          "nameEn": "Tangerine",
+          "nameCn": "橘色",
+          "rgbHex": "#FF7F00",
+          "rgb": [
+            255,
+            127,
+            0
+          ],
+          "lab": [
+            66.9,
+            43.3,
+            73.9
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "211",
+          "nameEn": "Peach",
+          "nameCn": "桃色",
+          "rgbHex": "#FFDAB9",
+          "rgb": [
+            255,
+            218,
+            185
+          ],
+          "lab": [
+            89.3,
+            8.1,
+            21
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "226",
+          "nameEn": "Yellow",
+          "nameCn": "鲜黄色",
+          "rgbHex": "#FFFF00",
+          "rgb": [
+            255,
+            255,
+            0
+          ],
+          "lab": [
+            97.1,
+            -21.6,
+            94.5
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "231",
+          "nameEn": "Lemon Yellow",
+          "nameCn": "柠檬黄",
+          "rgbHex": "#FFF700",
+          "rgb": [
+            255,
+            247,
+            0
+          ],
+          "lab": [
+            95.1,
+            -17.7,
+            93
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "236",
+          "nameEn": "Light Yellow",
+          "nameCn": "淡黄色",
+          "rgbHex": "#FFFF99",
+          "rgb": [
+            255,
+            255,
+            153
+          ],
+          "lab": [
+            98.1,
+            -14.2,
+            48.7
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "201",
+          "nameEn": "Lime Green",
+          "nameCn": "青柠绿",
+          "rgbHex": "#32CD32",
+          "rgb": [
+            50,
+            205,
+            50
+          ],
+          "lab": [
+            72.6,
+            -67.1,
+            61.4
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "211",
+          "nameEn": "Spring Green",
+          "nameCn": "春绿色",
+          "rgbHex": "#00FF7F",
+          "rgb": [
+            0,
+            255,
+            127
+          ],
+          "lab": [
+            88.5,
+            -76.9,
+            47
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "215",
+          "nameEn": "Light Green",
+          "nameCn": "浅绿色",
+          "rgbHex": "#90EE90",
+          "rgb": [
+            144,
+            238,
+            144
+          ],
+          "lab": [
+            86.5,
+            -46.3,
+            36.9
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "221",
+          "nameEn": "Dark Green",
+          "nameCn": "墨绿色",
+          "rgbHex": "#005941",
+          "rgb": [
+            0,
+            89,
+            65
+          ],
+          "lab": [
+            33,
+            -29.9,
+            7.4
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "226",
+          "nameEn": "Forest Green",
+          "nameCn": "森林绿",
+          "rgbHex": "#228B22",
+          "rgb": [
+            34,
+            139,
+            34
+          ],
+          "lab": [
+            50.6,
+            -49.6,
+            45
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "301",
+          "nameEn": "Cyan",
+          "nameCn": "青色",
+          "rgbHex": "#00FFFF",
+          "rgb": [
+            0,
+            255,
+            255
+          ],
+          "lab": [
+            91.1,
+            -48.1,
+            -14.1
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "306",
+          "nameEn": "Turquoise",
+          "nameCn": "青绿色",
+          "rgbHex": "#40E0D0",
+          "rgb": [
+            64,
+            224,
+            208
+          ],
+          "lab": [
+            81.3,
+            -44.1,
+            -4
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "311",
+          "nameEn": "Sky Blue",
+          "nameCn": "天蓝色",
+          "rgbHex": "#87CEEB",
+          "rgb": [
+            135,
+            206,
+            235
+          ],
+          "lab": [
+            79.2,
+            -14.8,
+            -21.3
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "321",
+          "nameEn": "Blue",
+          "nameCn": "蓝色",
+          "rgbHex": "#0000FF",
+          "rgb": [
+            0,
+            0,
+            255
+          ],
+          "lab": [
+            32.3,
+            79.2,
+            -107.9
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "326",
+          "nameEn": "Royal Blue",
+          "nameCn": "宝蓝色",
+          "rgbHex": "#4169E1",
+          "rgb": [
+            65,
+            105,
+            225
+          ],
+          "lab": [
+            47.8,
+            26.3,
+            -65.3
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "331",
+          "nameEn": "Navy Blue",
+          "nameCn": "海军蓝",
+          "rgbHex": "#000080",
+          "rgb": [
+            0,
+            0,
+            128
+          ],
+          "lab": [
+            13,
+            47.5,
+            -64.7
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "401",
+          "nameEn": "Purple",
+          "nameCn": "紫色",
+          "rgbHex": "#800080",
+          "rgb": [
+            128,
+            0,
+            128
+          ],
+          "lab": [
+            29.8,
+            58.9,
+            -36.5
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "406",
+          "nameEn": "Violet",
+          "nameCn": "紫罗兰",
+          "rgbHex": "#8A2BE2",
+          "rgb": [
+            138,
+            43,
+            226
+          ],
+          "lab": [
+            42.2,
+            69.9,
+            -74.8
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "411",
+          "nameEn": "Lavender",
+          "nameCn": "薰衣草",
+          "rgbHex": "#E6E6FA",
+          "rgb": [
+            230,
+            230,
+            250
+          ],
+          "lab": [
+            91.8,
+            3.7,
+            -9.7
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "501",
+          "nameEn": "Beige",
+          "nameCn": "米色",
+          "rgbHex": "#F5F5DC",
+          "rgb": [
+            245,
+            245,
+            220
+          ],
+          "lab": [
+            95.9,
+            -4.2,
+            12
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "511",
+          "nameEn": "Tan",
+          "nameCn": "茶色",
+          "rgbHex": "#D2B48C",
+          "rgb": [
+            210,
+            180,
+            140
+          ],
+          "lab": [
+            75,
+            5,
+            24.4
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "521",
+          "nameEn": "Light Brown",
+          "nameCn": "浅棕色",
+          "rgbHex": "#B5651D",
+          "rgb": [
+            181,
+            101,
+            29
+          ],
+          "lab": [
+            50.9,
+            27.2,
+            51.2
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "531",
+          "nameEn": "Brown",
+          "nameCn": "咖啡棕",
+          "rgbHex": "#6F4E37",
+          "rgb": [
+            111,
+            78,
+            55
+          ],
+          "lab": [
+            36.2,
+            10.9,
+            19.1
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "541",
+          "nameEn": "Dark Brown",
+          "nameCn": "深棕色",
+          "rgbHex": "#654321",
+          "rgb": [
+            101,
+            67,
+            33
+          ],
+          "lab": [
+            31.6,
+            10.9,
+            26.2
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "551",
+          "nameEn": "Chocolate",
+          "nameCn": "巧克力色",
+          "rgbHex": "#7B3F00",
+          "rgb": [
+            123,
+            63,
+            0
+          ],
+          "lab": [
+            33.5,
+            22.3,
+            43.8
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "141",
+          "nameEn": "Coral",
+          "nameCn": "珊瑚色",
+          "rgbHex": "#FF7F50",
+          "rgb": [
+            255,
+            127,
+            80
+          ],
+          "lab": [
+            67.3,
+            45.4,
+            47.5
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "221",
+          "nameEn": "Gold",
+          "nameCn": "金色",
+          "rgbHex": "#FFD700",
+          "rgb": [
+            255,
+            215,
+            0
+          ],
+          "lab": [
+            86.9,
+            -1.9,
+            87.1
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "241",
+          "nameEn": "Cream",
+          "nameCn": "奶油黄",
+          "rgbHex": "#FFE4B5",
+          "rgb": [
+            255,
+            228,
+            181
+          ],
+          "lab": [
+            91.7,
+            2.4,
+            26.4
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "271",
+          "nameEn": "Sand",
+          "nameCn": "沙色",
+          "rgbHex": "#C2B280",
+          "rgb": [
+            194,
+            178,
+            128
+          ],
+          "lab": [
+            72.8,
+            -1.7,
+            27.7
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "276",
+          "nameEn": "Khaki",
+          "nameCn": "卡其色",
+          "rgbHex": "#C3B091",
+          "rgb": [
+            195,
+            176,
+            145
+          ],
+          "lab": [
+            72.7,
+            2,
+            18.4
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        },
+        {
+          "brand": "MARD",
+          "series": "Standard",
+          "code": "091",
+          "nameEn": "Skin Tone",
+          "nameCn": "肤色",
+          "rgbHex": "#FFDBAC",
+          "rgb": [
+            255,
+            219,
+            172
+          ],
+          "lab": [
+            89.3,
+            5.9,
+            27.8
+          ],
+          "standard": "MARD",
+          "compatibility": 97,
+          "verified": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-11-18",
+  "palettes": [
+    {
+      "id": "artkal-s-series",
+      "name": "Artkal 5mm (S-Series)",
+      "description": "硬豆，兼容Perler",
+      "beadSize": 5,
+      "colorCount": 30,
+      "colors": [
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S01",
+          "nameEn": "White",
+          "nameCn": "白色",
+          "rgbHex": "#FFFFFF",
+          "rgb": [255, 255, 255],
+          "lab": [100.0, 0.0, 0.0]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S02",
+          "nameEn": "Cream",
+          "nameCn": "奶油色",
+          "rgbHex": "#FFF5E1",
+          "rgb": [255, 245, 225],
+          "lab": [97.1, -1.1, 8.4]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S03",
+          "nameEn": "Yellow",
+          "nameCn": "黄色",
+          "rgbHex": "#FFD700",
+          "rgb": [255, 215, 0],
+          "lab": [87.7, 3.3, 79.2]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S04",
+          "nameEn": "Orange",
+          "nameCn": "橙色",
+          "rgbHex": "#FFA500",
+          "rgb": [255, 165, 0],
+          "lab": [74.9, 23.9, 78.9]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S10",
+          "nameEn": "Bright Red",
+          "nameCn": "亮红色",
+          "rgbHex": "#DA1414",
+          "rgb": [218, 20, 20],
+          "lab": [47.4, 69.8, 55.9]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S11",
+          "nameEn": "Red",
+          "nameCn": "红色",
+          "rgbHex": "#FF0000",
+          "rgb": [255, 0, 0],
+          "lab": [53.2, 80.1, 67.2]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S12",
+          "nameEn": "Dark Red",
+          "nameCn": "深红色",
+          "rgbHex": "#8B0000",
+          "rgb": [139, 0, 0],
+          "lab": [28.1, 58.9, 42.6]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S20",
+          "nameEn": "Pink",
+          "nameCn": "粉色",
+          "rgbHex": "#FFC0CB",
+          "rgb": [255, 192, 203],
+          "lab": [83.3, 24.4, 3.4]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S21",
+          "nameEn": "Hot Pink",
+          "nameCn": "玫红色",
+          "rgbHex": "#FF69B4",
+          "rgb": [255, 105, 180],
+          "lab": [65.5, 62.8, -7.9]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S30",
+          "nameEn": "Purple",
+          "nameCn": "紫色",
+          "rgbHex": "#800080",
+          "rgb": [128, 0, 128],
+          "lab": [29.8, 58.9, -36.5]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S31",
+          "nameEn": "Light Purple",
+          "nameCn": "浅紫色",
+          "rgbHex": "#DDA0DD",
+          "rgb": [221, 160, 221],
+          "lab": [73.6, 32.3, -18.6]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S40",
+          "nameEn": "Blue",
+          "nameCn": "蓝色",
+          "rgbHex": "#0000FF",
+          "rgb": [0, 0, 255],
+          "lab": [32.3, 79.2, -107.9]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S41",
+          "nameEn": "Sky Blue",
+          "nameCn": "天蓝色",
+          "rgbHex": "#87CEEB",
+          "rgb": [135, 206, 235],
+          "lab": [79.2, -11.3, -25.7]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S42",
+          "nameEn": "Navy Blue",
+          "nameCn": "海军蓝",
+          "rgbHex": "#000080",
+          "rgb": [0, 0, 128],
+          "lab": [12.9, 47.5, -64.7]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S50",
+          "nameEn": "Green",
+          "nameCn": "绿色",
+          "rgbHex": "#008000",
+          "rgb": [0, 128, 0],
+          "lab": [46.2, -51.7, 49.9]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S51",
+          "nameEn": "Light Green",
+          "nameCn": "浅绿色",
+          "rgbHex": "#90EE90",
+          "rgb": [144, 238, 144],
+          "lab": [86.5, -46.3, 36.9]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S52",
+          "nameEn": "Dark Green",
+          "nameCn": "深绿色",
+          "rgbHex": "#006400",
+          "rgb": [0, 100, 0],
+          "lab": [34.9, -40.5, 39.0]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S60",
+          "nameEn": "Brown",
+          "nameCn": "棕色",
+          "rgbHex": "#8B4513",
+          "rgb": [139, 69, 19],
+          "lab": [37.6, 21.6, 43.5]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S61",
+          "nameEn": "Light Brown",
+          "nameCn": "浅棕色",
+          "rgbHex": "#D2691E",
+          "rgb": [210, 105, 30],
+          "lab": [55.8, 30.7, 56.4]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S70",
+          "nameEn": "Gray",
+          "nameCn": "灰色",
+          "rgbHex": "#808080",
+          "rgb": [128, 128, 128],
+          "lab": [53.6, 0.0, 0.0]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S71",
+          "nameEn": "Light Gray",
+          "nameCn": "浅灰色",
+          "rgbHex": "#D3D3D3",
+          "rgb": [211, 211, 211],
+          "lab": [85.0, 0.0, 0.0]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S72",
+          "nameEn": "Dark Gray",
+          "nameCn": "深灰色",
+          "rgbHex": "#404040",
+          "rgb": [64, 64, 64],
+          "lab": [28.1, 0.0, 0.0]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S80",
+          "nameEn": "Black",
+          "nameCn": "黑色",
+          "rgbHex": "#000000",
+          "rgb": [0, 0, 0],
+          "lab": [0.0, 0.0, 0.0]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S90",
+          "nameEn": "Beige",
+          "nameCn": "米色",
+          "rgbHex": "#F5F5DC",
+          "rgb": [245, 245, 220],
+          "lab": [96.0, -2.9, 9.7]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S91",
+          "nameEn": "Peach",
+          "nameCn": "桃色",
+          "rgbHex": "#FFDAB9",
+          "rgb": [255, 218, 185],
+          "lab": [89.3, 8.7, 19.6]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S92",
+          "nameEn": "Skin Tone",
+          "nameCn": "肤色",
+          "rgbHex": "#FFDBAC",
+          "rgb": [255, 219, 172],
+          "lab": [89.5, 7.1, 26.1]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S100",
+          "nameEn": "Turquoise",
+          "nameCn": "青绿色",
+          "rgbHex": "#40E0D0",
+          "rgb": [64, 224, 208],
+          "lab": [81.3, -44.9, -5.7]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S101",
+          "nameEn": "Teal",
+          "nameCn": "蓝绿色",
+          "rgbHex": "#008080",
+          "rgb": [0, 128, 128],
+          "lab": [48.3, -28.8, -8.5]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S110",
+          "nameEn": "Lime",
+          "nameCn": "青柠色",
+          "rgbHex": "#00FF00",
+          "rgb": [0, 255, 0],
+          "lab": [87.7, -86.2, 83.2]
+        },
+        {
+          "brand": "Artkal",
+          "series": "S-Series (5mm Hard)",
+          "code": "S111",
+          "nameEn": "Olive",
+          "nameCn": "橄榄色",
+          "rgbHex": "#808000",
+          "rgb": [128, 128, 0],
+          "lab": [51.9, -12.9, 56.7]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2025-11-18",
+    "source": "China Market Research",
+    "method": "Artkal Mapping",
+    "note": "RGB values are based on Artkal S-Series mapping. Actual generic bead sets may vary slightly."
+  },
+  "palettes": [
+    {
+      "id": "generic-24",
+      "name": "通用新手24色 (5mm)",
+      "nameEn": "Generic 24-Color Starter Set",
+      "brand": "Generic",
+      "series": "Beginner 24-Color",
+      "region": "china",
+      "targetAudience": "beginner",
+      "beadSize": 5,
+      "colorCount": 24,
+      "description": "中国市场最常见的入门级24色套装",
+      "colors": [
+        {
+          "code": "01",
+          "nameCn": "黑色",
+          "nameEn": "Black",
+          "rgbHex": "#000000",
+          "rgb": [0, 0, 0],
+          "lab": [0.0, 0.0, 0.0],
+          "artkalMapping": "S15"
+        },
+        {
+          "code": "02",
+          "nameCn": "白色",
+          "nameEn": "White",
+          "rgbHex": "#FFFFFF",
+          "rgb": [255, 255, 255],
+          "lab": [100.0, 0.0, 0.0],
+          "artkalMapping": "S01"
+        },
+        {
+          "code": "03",
+          "nameCn": "大红",
+          "nameEn": "Red",
+          "rgbHex": "#DA1414",
+          "rgb": [218, 20, 20],
+          "lab": [47.4, 69.8, 55.9],
+          "artkalMapping": "S10"
+        },
+        {
+          "code": "04",
+          "nameCn": "橙色",
+          "nameEn": "Orange",
+          "rgbHex": "#FF8C00",
+          "rgb": [255, 140, 0],
+          "lab": [70.5, 45.2, 75.8],
+          "artkalMapping": "S12"
+        },
+        {
+          "code": "05",
+          "nameCn": "黄色",
+          "nameEn": "Yellow",
+          "rgbHex": "#FFD700",
+          "rgb": [255, 215, 0],
+          "lab": [88.3, 3.2, 89.4],
+          "artkalMapping": "S02"
+        }
+      ]
+    }
+  ]
+}
